@@ -26,6 +26,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
+          # https://github.com/settings/tokens/new
+          # https://github.com/malkhazpaliani/mestiahotellevel/settings/secrets/actions/new
           personal_token: ${{ secrets.TOKEN }}
           external_repository: malkhazpaliani/malkhazpaliani.github.io
           user_name: malkhazpaliani
