@@ -1,0 +1,3 @@
+[submodule "themes/coHub"]
+	path = themes/coHub
+	url = git@github.com:malkhazpaliani/hugo-coHub.git

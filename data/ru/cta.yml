@@ -1,0 +1,7 @@
+---
+enable: true
+title: "Забронируйте сейчас"
+buttonTarget: contact
+priceLink: "https://www.booking.com/hotel/ge/guesthouse-leveli.html"
+additionalLink: contact
+---

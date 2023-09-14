@@ -1,0 +1,16 @@
+---
+title : "Appartments"
+enable: true
+subtitle: >
+        There are double and triple rooms. Family appartments have a kitchen. 
+        Ask for a mountain or a quiet backyard view or try our wooden cottages.
+galleryImage: 
+ - image: "images/gallery/gallery01.jpg"
+ - image: "images/gallery/gallery02.jpg"
+ - image: "images/gallery/gallery03.jpg"
+ - image: "images/gallery/gallery04.jpg"
+ - image: "images/gallery/gallery05.jpg"
+ - image: "images/gallery/gallery06.jpg"
+ - image: "images/gallery/gallery07.jpg"
+ - image: "images/gallery/gallery08.jpg"
+---

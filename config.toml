@@ -1,0 +1,108 @@
+baseURL = 'https://malkhazpaliani.github.io'
+DefaultContentLanguage = "en"
+#defaultContentLanguageInSubdir = true
+
+paginate = 6
+theme = "coHub"
+
+enableRobotsTXT = true
+
+[Languages]
+  [Languages.en]
+  title = 'Mestia Hotel Level by Malkhaz & Nata Paliani'
+  languageCode = 'en'
+  weight = 0
+  languagename = "English"
+
+  [Languages.en.params]
+  flag = "🇬🇧"
+
+  [Languages.en.params.address]
+  address = "David Aghmashenebeli 16 str., Mestia, 3200"
+  email = "malkhazpaliani@gmail.com"
+  phone = "(+995)551-444-117"
+
+    [[Languages.en.menu.main]]
+    url= "/about/"
+    name = "Rooms"
+    weight = 2
+
+    [[Languages.en.menu.main]]
+    url= "/blog/"
+    name = "Attractions"
+    weight = 3
+
+    [[Languages.en.menu.main]]
+    url = "/Partnership/"
+    name = "Partnership"
+    weight = 4
+
+    [[Languages.en.menu.main]]
+    url= "/contact/"
+    name = "Contact"
+    weight = 5
+
+
+  [Languages.ru]
+  title = 'Отель Level в Местиа Малхаза и Наты Палиани'
+  languageCode = 'ru'
+  weight = 0
+  languagename = "Русский"
+
+  [Languages.ru.params]
+  flag = "🇷🇺"
+
+    [Languages.ru.params.address]
+    address = "ул. Давида Агхмашенебели 16 str., Местиа, 3200"
+    email = "malkhazpaliani@gmail.com"
+    phone = "(+995)551-444-117"
+
+    [[Languages.ru.menu.main]]
+    url= "/about/"
+    name = "Отель"
+    weight = 2
+
+    [[Languages.ru.menu.main]]
+    url= "/blog/"
+    name = "Экскурсии"
+    weight = 3
+
+    [[Languages.ru.menu.main]]
+    url = "/Partnership/"
+    name = "Сотрудничество"
+    weight = 4
+
+    [[Languages.ru.menu.main]]
+    url= "/contact/"
+    name = "Контакты"
+    weight = 5
+
+
+[params]
+  aboutPageURL = "Mestia Hotel Level official web site"
+  contactLink = "contact"
+  copyright = "© {year}"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  #googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo-white.png"
+  footerlogo = "images/logo.png"
+  defaultDescription = "Hotel Level located in Mestia, Georgia. We are invite you to explore Svaneti."
+  defaultKeywords = ["Georgia", "Svaneti", "Mestia", "tourism", "attractions", "travel", "hotel", "guesthouse", "family hotel", "ski resort", "winter travel", "summer travel"]
+
+  [params.map]
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "43.0500069"
+  longitude = "42.7348022"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/MestiaHotelLevel/"
+  weight = 1
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/mestia_hotel_level/"
+  weight = 4
+  
+  

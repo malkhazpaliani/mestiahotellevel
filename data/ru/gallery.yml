@@ -1,0 +1,16 @@
+---
+title : "Номера"
+enable: true
+subtitle: >
+        У нас есть трехместные и двухместные номера. Семейные номера имеют кухню.
+        Вы можете выбрать между видом на горы или тихий задний двор. Также у нас есть два уютных деревянных коттеджа.
+galleryImage: 
+ - image: "images/gallery/gallery01.jpg"
+ - image: "images/gallery/gallery02.jpg"
+ - image: "images/gallery/gallery03.jpg"
+ - image: "images/gallery/gallery04.jpg"
+ - image: "images/gallery/gallery05.jpg"
+ - image: "images/gallery/gallery06.jpg"
+ - image: "images/gallery/gallery07.jpg"
+ - image: "images/gallery/gallery08.jpg"
+---
